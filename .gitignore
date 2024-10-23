@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-gitignore
+
 package-lock.json
 package.json
 vite.config.json
