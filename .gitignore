@@ -6,7 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+gitignore
+package-lock.json
+package.json
+vite.config.json
+eslint.config.js
 node_modules
 dist
 dist-ssr
@@ -22,3 +26,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
