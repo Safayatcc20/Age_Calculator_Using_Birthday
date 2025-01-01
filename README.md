@@ -8,6 +8,7 @@ The **Age Calculator** is a simple web application that allows users to input th
 - **Accurate Calculation**: Age is calculated based on the current date and the user's birthdate.
 - **Real-time Result**: The age is calculated and displayed as soon as the user enters the information.
 - **Easy to Use**: No complicated setup, just fill in your birthdate and see your age.
+![image](https://github.com/user-attachments/assets/fd4ef0eb-fe34-427b-8cab-072e9eece661)
 
 ## How It Works
 
