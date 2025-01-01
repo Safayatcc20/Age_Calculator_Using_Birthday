@@ -1,8 +1,24 @@
-# React + Vite
+# Age Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Age Calculator** is a simple web application that allows users to input their birthdate, month, and year, and instantly calculate their current age in years, months, and days.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Simple Interface**: Input your birthdate (day, month, year) and get your exact age.
+- **Accurate Calculation**: Age is calculated based on the current date and the user's birthdate.
+- **Real-time Result**: The age is calculated and displayed as soon as the user enters the information.
+- **Easy to Use**: No complicated setup, just fill in your birthdate and see your age.
+
+## How It Works
+
+1. **User Input**: Enter your birthdate in the form of day, month, and year.
+2. **Real-time Calculation**: The app will calculate your current age based on today's date.
+3. **Output**: The app displays your age in years, months, and days.
+
+## Getting Started
+
+Click here: https://age-calculator-using-birthday.vercel.app/
+
+### Prerequisites
+
+- No installation is required. All you need is a modern web browser to run this application.
